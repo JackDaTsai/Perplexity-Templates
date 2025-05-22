@@ -1,5 +1,3 @@
-# Perplexity-Templates
-
 ## Trip Planner Pro 🌴
 
 Plan your trip with personalized itineraries and tips—just share where you’re going and what you’re into.
